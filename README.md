@@ -35,10 +35,17 @@ you can even create an executable JAR that runs as a standalone application.
 Happy coding!
 
 
-<b>TRICK</b>
-Non è un vero trucco ma una nota importante.
+
+<b>Base TRICK</b>
+
+Non è un vero e proprio trucco ma una nota importante.
+It is not a real trick but an important note.
 
 Bisogna usare l'ambiente giusto.
-con JavaSE-1.8 funziona
-con JavaSE-22 invece crea un JAR che da errore.
+You need to use the right environment.
 
+con JavaSE-1.8 funziona bene
+with JavaSE-1.8 works fine
+
+con JavaSE-22 invece crea un JAR che da errore all'avvio.
+with JavaSE-22 instead, creates a JAR that on run give us error .
