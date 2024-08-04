@@ -1,8 +1,7 @@
 # JavaEclipse
 My java guide with tricks and experiments
 
-
-Trick at the bottom.
+-Trick at the bottom.
 
 
 
