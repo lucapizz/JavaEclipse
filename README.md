@@ -35,7 +35,7 @@ you can even create an executable JAR that runs as a standalone application.
 Happy coding!
 
 
-<title>TRICK</title>
+<b>TRICK</b>
 Non è un vero trucco ma una nota importante.
 
 Bisogna usare l'ambiente giusto.
