@@ -43,3 +43,9 @@ GRAFICA
 base esistono le librerie AWT e SWING per la rappresentazione di pulsanti
 etichette eccetera. Inoltre abbiamo anche gli eventi associabili. Infine,
 non necessariamente connessi alla grafica, ci sono anche timer e task.
+
+DEPLOY
+- Rilasciare un programma finito è forse la cosa principale che serve, altrimenti
+  cosa si programma a fare. In Ecliplse questo si ottiene in modo semplice
+  anche se dietro c'è un mondo di dettagli. Nel README iniziale ci sono le istruzioni.
+
