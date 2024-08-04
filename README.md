@@ -2,6 +2,7 @@
 My java guide with tricks and experiments
 
 
+Trick at the bottom.
 
 <b>HOW TO DEPLOY A JAVA PROGRAM AS JAR FILE IN ECLIPSE</b>
  
@@ -32,3 +33,12 @@ arguments) accordingly when running the JAR file. If you’re a Windows user,
 you can even create an executable JAR that runs as a standalone application.
 
 Happy coding!
+
+
+<title>TRICK</title>
+Non è un vero trucco ma una nota importante.
+
+Bisogna usare l'ambiente giusto.
+con JavaSE-1.8 funziona
+con JavaSE-22 invece crea un JAR che da errore.
+
