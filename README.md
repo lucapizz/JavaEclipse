@@ -2,7 +2,8 @@
 My java guide with tricks and experiments
 
 
-HOW TO DEPLOY A JAVA PROGRAM AS JAR FILE IN ECLIPSE
+
+<b>HOW TO DEPLOY A JAVA PROGRAM AS JAR FILE IN ECLIPSE</b>
  
 Certainly! To deploy a Java program as a JAR (Java Archive) file in Eclipse,
 follow these steps:
