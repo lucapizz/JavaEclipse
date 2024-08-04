@@ -3,6 +3,7 @@ My java guide with tricks and experiments
 
 -Trick at the bottom.
 
+The following instructions came from internet and work fine.
 
 
 <b>HOW TO DEPLOY A JAVA PROGRAM AS JAR FILE IN ECLIPSE</b>
