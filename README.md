@@ -4,6 +4,8 @@ My java guide with tricks and experiments
 
 Trick at the bottom.
 
+
+
 <b>HOW TO DEPLOY A JAVA PROGRAM AS JAR FILE IN ECLIPSE</b>
  
 Certainly! To deploy a Java program as a JAR (Java Archive) file in Eclipse,
@@ -39,13 +41,18 @@ Happy coding!
 <b>Base TRICK</b>
 
 Non è un vero e proprio trucco ma una nota importante.
+
 It is not a real trick but an important note.
 
 Bisogna usare l'ambiente giusto.
+
 You need to use the right environment.
 
 con JavaSE-1.8 funziona bene
+
 with JavaSE-1.8 works fine
 
 con JavaSE-22 invece crea un JAR che da errore all'avvio.
+
 with JavaSE-22 instead, creates a JAR that on run give us error .
+
