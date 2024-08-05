@@ -50,5 +50,5 @@ con JavaSE-1.8 funziona bene<br>
 with JavaSE-1.8 works fine
 
 con JavaSE-22 invece crea un JAR che da errore all'avvio.<br>
-with JavaSE-22 instead, creates a JAR that on run give us error .
+with JavaSE-22 instead, creates a JAR that on start give us error .
 
