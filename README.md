@@ -38,7 +38,7 @@ Happy coding!
 
 
 
-<b>Base TRICK</b>
+## <b>Base TRICK</b>
 
 Non è un vero e proprio trucco ma una nota importante.<br>
 It is not a real trick but an important note.
