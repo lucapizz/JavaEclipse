@@ -43,7 +43,7 @@ Happy coding!
 Non è un vero e proprio trucco ma una nota importante.
 It is not a real trick but an important note.
 
-Bisogna usare l'ambiente giusto (Properties JRE Execution environment).
+Bisogna usare l'ambiente giusto (Properties JRE Execution environment).<br>
 You need to use the right environment (Properties JRE Execution environment).
 
 con JavaSE-1.8 funziona bene
