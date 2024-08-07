@@ -1,5 +1,5 @@
 /**
-*
+* myJavaGuide
 */
 
 Informazioni varie imparate su JAVA in ECLIPSE, mio promemoria personale.
