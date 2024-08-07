@@ -1,0 +1,12 @@
+DETTAGLI ISTRUZIONI JAVA
+
+  - getKeyChar()
+Sull'evento di tasto rilasciato posso sapere quuale tasto era chiamando la getKeyChar().
+
+  - showMessageDialog()
+//The "JOptionPane.showMessageDialog()" is a useful pop up message box,
+//which needs the following "import javax.swing.JOptionPane; import javax.swing.JOptionPane;
+Per fare una finestra di pop up posso chiamare la JOptionPane.showMessageDialog()
+
+UDP packet reception
+Avoid pk.getData() in reception because data already available.
