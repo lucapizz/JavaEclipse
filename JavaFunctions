@@ -1,17 +1,21 @@
 DETTAGLI ISTRUZIONI JAVA
 
-  - getKeyChar()
-Sull'evento di tasto rilasciato posso sapere quuale tasto era chiamando la getKeyChar().
+SWING, libreria grafica in JAVA
+Disponibile per interfaccia grafica a finestre, tipica del sistema operativo windows.
+
+  - setLocationRelativeTo(null)
+Questa funzione serve a posizionare una finestra al centro dello schermo. Se al posto
+di null si passa un'altra finestra (oggetto swing) allora sarà centrata in tale finestra.
 
   - showMessageDialog()
 //The "JOptionPane.showMessageDialog()" is a useful pop up message box,
 //which needs the following "import javax.swing.JOptionPane; import javax.swing.JOptionPane;
 Per fare una finestra di pop up posso chiamare la JOptionPane.showMessageDialog()
 
+  - getKeyChar()
+Sull'evento di tasto rilasciato posso sapere quuale tasto era chiamando la getKeyChar().
+
+
 UDP packet reception
 Avoid pk.getData() in reception because data already available.
 
-Libreria grafica SWING in JAVA
-Disponibile per interfaccia grafica a finestre, tipica di windows.
-La funzione "setLocationRelativeTo(null)" serve a posizionare la finestra al centro
-dello schermo. Se al posto di null si passa un 
