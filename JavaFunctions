@@ -10,3 +10,8 @@ Per fare una finestra di pop up posso chiamare la JOptionPane.showMessageDialog(
 
 UDP packet reception
 Avoid pk.getData() in reception because data already available.
+
+Libreria grafica SWING in JAVA
+Disponibile per interfaccia grafica a finestre, tipica di windows.
+La funzione "setLocationRelativeTo(null)" serve a posizionare la finestra al centro
+dello schermo. Se al posto di null si passa un 
