@@ -13,7 +13,7 @@ di null si passa un'altra finestra (oggetto swing) allora sarà centrata in tale
 Per fare una finestra di pop up posso chiamare la JOptionPane.showMessageDialog()
 
   - getKeyChar()
-Sull'evento di tasto rilasciato posso sapere quuale tasto era chiamando la getKeyChar().
+Sull'evento di tasto rilasciato posso sapere quale tasto era chiamando la getKeyChar().
 
 
 UDP packet reception
