@@ -1,0 +1,26 @@
+ECLIPSE
+
+ho imparato che
+
+
+posso avviare il terminal dentro a ECLIPSE facendo come segue:
+
+Nella finestra "Package Explorer" (solitamente sulla sinistra) fare click tasto destro
+sul progetto e scegliere dal menu a comparsa la voce "Show in" (oppure "mostra in") e
+poi la voce "Terminal".
+
+Quindi si apre (di solito in basso, vicino a Console) la finestra di terminale come
+riga di comando DOS che punta al percorso del progetto dove posso digitare il comando
+di compilazione javac nomefile.java
+Peccato che poi non riesco ad eseguire il compilato che mi da' il seguente errore
+
+   >java frame.class
+    Errore: impossibile trovare o caricare la classe principale frame.class
+    Causato da: java.lang.ClassNotFoundException: frame.class
+
+Ora ho capito: La riga iniziale package che serve in ECLIPSE causa il suddetto problema.
+Infatti commentandola riesco a compilare ed eseguire dal terminal ed il
+file.class (bytecode) e' trasportabile su un altro PC.
+
+Quanto suddetto viene smorzato dalla soluzione JAR,
+vedere HOW TO DEPLOY nel README iniziale.
