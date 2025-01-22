@@ -8,7 +8,7 @@ Ci sono alcune cose ostiche, non che siano complicate, ma semplicemente se
 te le spiegano sono più chiare, facili e prontamente disponibili.
 
 
-WindowBuilder
+#WindowBuilder
 - Ad esempio "WindowBuilder" è un pluging gratuito per ECLIPSE che aggiunge
 il supporto alla creazione di pagine grafiche in JAVA. Ovviamente per
 arrivare a questo bisogna prima avere qualche altra conoscenza.
@@ -21,7 +21,7 @@ Dopo aver creato la GUI con WindowBuilder, nella finestra del codice sorgente,
 in basso, si vedono due TABS, "Source" e "Design" e cliccandoli si cambia
 prespective per passare da una modalità all'altra.
 
-ECLIPSE
+# ECLIPSE
 - Anch'esso gratuito, è il punto di appoggio per sviluppare in molti
 linguaggi ma probabilmente JAVA è quello più famoso, forse il primo.
 
