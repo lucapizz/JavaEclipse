@@ -7,8 +7,8 @@
  * Poi ci sono alcune parole chiave che devono essere precedute dalla
  * chiocciola come @author Pippo e che si chiamano TAG (cercare in rete).
  * Inoltre nei commenti possiamo usare i vari tag del linguaggio html come
- * ad esempio  {@code <p> <h1> </h1> <b></b>} eccetera.
- * </p>
+ * ad esempio <p> <h1> </h1> <b></b> </p> eccetera.
+ *
  * Infine tale documentazione compare automaticamente in ECLIPSE quando si
  * punta sul nome di una funzione documentata come fin qui descritto.
  *
